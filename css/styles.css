@@ -1,0 +1,334 @@
+#header1 img{
+    height: 30%;
+    width: 80%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#header2 img{
+    height: 30%;
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 10px;
+    
+}
+
+.navigation{
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.navigation li{
+    display: inline;
+    list-style-type: none;
+    padding: 20px;
+}
+
+.navigation li a{
+    color: white;
+    text-decoration: none;
+}
+
+body{
+    margin: 0px;
+}
+
+#header3 img{
+    height: 20vh;
+    width: 80%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#headline  h3{
+    text-align: center;
+}
+
+#headline .container{
+    display: flex;
+    margin-top: 30px;
+    justify-content:space-evenly;
+    margin: 10px 20px;
+}
+
+.box1{
+    background-image: url(../images/PRESIDENT.jpeg);
+    height: 100vh;
+    width: 70%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.box1overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+button{
+    background-color: red;
+    text-align: justify;
+    color: white;
+    border: none;
+}
+
+.box1content h3{
+ 
+    color: white;
+    position: absolute;
+    top: 70%;
+    
+}
+
+.box1content a{
+    color: #fff;
+}
+
+.box2{
+    background-image: url(../images/yt.jpg);
+    height: 45vh;
+    width: 70%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    margin-left: 10px;
+
+}
+
+.box2overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.box2content h3{
+    text-decoration: underline;
+    color: white;
+    
+    
+}
+
+.box3{
+    background-image: url(../images/ytr.png);
+    height: 45vh;
+    width: 70%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 25px;
+    margin-left: 10px;
+    
+
+}
+.box3overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.box3content h3{
+    text-decoration: underline;
+    color: white;
+    
+    
+}
+
+.box4 img{
+    height: 100vh;
+    width: 130%;
+    margin-right: 20px;
+
+}
+#heady h3{
+    text-align: center;
+}
+
+#heady .container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#heady .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+
+
+}
+#heady .container .col2 button{
+    
+    border: 2px none red;
+
+}
+#heady .container .col2 p{
+    text-align: center;
+}
+
+#total .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+
+}
+#total .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+
+#total .container .col2 button{
+    
+    border: 2px none red;
+
+}
+#total .container .col2 p{
+    text-align: center;
+}
+
+#appointment .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#appointment .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+#appointment .container .col2 button{
+    border: 2px none red;
+}
+#appointment .container .col2 p{
+    text-align: center;
+}
+
+#appointment2 .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#appointment2 .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+#appointment2 .container .col2 button{
+    border: 2px none red;
+}
+#appointment2 .container .col2 p{
+    text-align: center;
+}
+
+#brands .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#brands .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+#brands .container .col2 button{
+    border: 2px none red;
+}
+#brands .container .col2 p{
+    text-align: center;
+}
+
+#regulator .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#regulator .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+#regulator .container .col2 button{
+    border: 2px none red;
+}
+#regulator .container .col2 p{
+    text-align: center;
+}
+
+#appointment3 .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#appointment3 .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+#appointment3 .container .col2 button{
+    border: 2px none red;
+}
+#appointment3 .container .col2 p{
+    text-align: center;
+}
+
+#inflation .container{
+    display: flex;
+    justify-content: space-around;
+    margin-top:  20px;
+}
+#inflation .container .col1 img{
+    height: 70vh;
+    width: 80%;
+    margin-left: 10px;
+}
+#inflation .container .col2 button{
+    border: 2px none red;
+}
+#inflation .container .col2 p{
+    text-align: center;
+}
+#inflation .container .col2 h3{
+    text-align: center;
+}
+
+
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+footer .container{
+    display: flex;
+    border: 2px none gray;
+    margin: 5px 10px;
+}
+
+footer .container .box ul li{
+    list-style-type: none;
+}
+
+footer .container .box ul li a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+footer .credit{
+    text-align: center;
+}
+
