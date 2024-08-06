@@ -52,7 +52,7 @@
             <div class="box2overlay"></div>
             <div class="box2content">
                 <button>MARKETS</button>
-                <H3>Guaranty Trust Holding Company (GTCO) Plc Gains Shareholder Approval for $750 Million Capital Raise</H3>
+                <H3> <a href="#">Guaranty Trust Holding Company (GTCO) Plc Gains Shareholder Approval for $750 Million Capital Raise </a></H3>
             </div>
             </div>
 
@@ -60,7 +60,7 @@
                 <div class="box3overlay"></div>
                 <div class="box3content">
                     <button>APPOINTMENTS</button>
-                    <H3>Beta Glass Plc Announces Changes to its Board of Directors</H3>
+                    <H3> <a href="#">Beta Glass Plc Announces Changes to its Board of Directors </a></H3>
                 </div>
             </div>
 
@@ -88,7 +88,7 @@
 
     <div class="col2">
         <button>MARKETS</button>
-        <h3>Unilever Nigeria PLC Holds Annual General Meeting, Announces Key Resolutions</h3>
+        <h3> <a href="#">Unilever Nigeria PLC Holds Annual General Meeting, Announces Key Resolutions </a></h3>
 
         <p>May 11,2024</p>
         <p>Unilever Nigeria PLC declared a dividend totaling N4.3 billion equivalent to N0.75k per share, for the fiscal year ending 31st December 2023.</p>
@@ -112,7 +112,7 @@
 
         <div class="col2">
             <button>BRANDS & AWARDS</button>
-            <H3>TotalEnergies Launches 2024 Startuppers Challenge to Empower African Entrepreneurs</H3>
+            <H3><a href="#">TotalEnergies Launches 2024 Startuppers Challenge to Empower African Entrepreneurs </a></H3>
             <p>May 11,2024</p>
             <p>TotalEnergies Nigeria has unveiled the 2024 edition of its Startuppers challenge, geared towards supporting businesses in Nigeria and across Africa.</p>
 
@@ -134,7 +134,7 @@
 
         <div class="col2">
             <button>APPOINTMENTS</button>
-            <h3>FirstBank Welcomes Ebenezer Oluwofose as Chairman Following Tunde Hassan-Odukale’s Retirement</h3>
+            <h3> <a href="#">FirstBank Welcomes Ebenezer Oluwofose as Chairman Following Tunde Hassan-Odukale’s Retirement </a></h3>
             <p>MAY 11,2024</p>
             <P>Mr Ebenezer Oluwofose has been appointed as the new Chairman of the Board of Directors of First Bank of Nigeria Limited.</P>
 
@@ -156,7 +156,7 @@
         </div>
         <div class="col2">
             <button>APPOINTMENTS</button>
-            <h3>Mr. Ogaga Ologe Resigns as Finance Director of Cadbury Nigeria Plc</h3>
+            <h3> <a href="#">Mr. Ogaga Ologe Resigns as Finance Director of Cadbury Nigeria Plc </a></h3>
             <p>MAY 11, 2024</p>
             <P>Mr. Ogaga Ologe’s resignation as Cadbury Nigeria Plc’s Finance Director, effective from July 22nd, 2024.</P>
 
@@ -176,9 +176,9 @@
         </div>
         <div class="col2">
             <button>BRANDS & AWARDS</button>
-            <H3>
+            <H3> <a href="">
             Access Bank Group, Mastercard Partner To Enhance Cross-Border Payments In Africa
-            </H3>
+            </a></H3>
             <P>MAY 9, 2024</P>
             <P>Access Bank in partnership with Mastercard has launched a solution to expand access to cross-border payments and remittances in Africa.</P>
 
@@ -199,7 +199,7 @@
         </div>
         <div class="col2">
             <button>REGULATORS</button>
-            <H3>CBN Extends Cash Deposit Processing Fee Suspension Until September 30, 2024</H3>
+            <H3> <a href="#">CBN Extends Cash Deposit Processing Fee Suspension Until September 30, 2024</a></H3>
             <p>MAY 9,2024</p>
             <P>The suspension covers charges imposed on cash deposits above N500,000 for individuals and N3,000,000 for corporates.</P>
 
@@ -219,7 +219,7 @@
         </div>
         <div class="col2">
             <button>APPOINTMENTS</button>
-            <H3>Ifunanya Obiakor Promoted to Head West Africa Marketing Role at Arla Foods</H3>
+            <H3> <a href="#">Ifunanya Obiakor Promoted to Head West Africa Marketing Role at Arla Foods </a></H3>
             <P>MAY 8, 2024</P>
             <P>Ifunanya Obiakor, has ascended to greater heights in her professional journey as the Head of Marketing, West Africa, Arla Foods.</P>
 
@@ -239,7 +239,7 @@
         </div>
         <div class="col2">
             <button>OPINION</button>
-            <H3>Is Inflation getting out of hands?</H3>
+            <H3> <a href="#">Is Inflation getting out of hands? </a></H3>
             <P>MAY 8, 2024</P>
             <P>A raise in the minimum wage by labor unions is arguably right, but at what price will they settle? Are Nigerians being told to survive and not prosper?</P>
 
@@ -250,6 +250,89 @@
 
 </section>
 <!--INFLATION SECTION ENDS HERE -->
+
+
+ <!--MOST VIEWED STORIES SECTION STARTS HERE -->
+ <section class="stories" id="stories">
+    <h3>-MOST VIEWED STORIES</h3>
+    <DIV class="container">
+        <div class="col1">
+            <div class="col1overlay"></div>
+            <div class="col1content">
+                <button>MARKETS</button>
+                
+
+            </div>
+
+        </div>
+
+        
+
+
+        <div class="col2">
+            <div class="col2overlay"></div>
+            <div class="col2content">
+                <button>MARKETS</button>
+
+            </div>
+           
+        </div>
+
+        
+
+        <div class="col3">
+            <div class="col3overlay"></div>
+            <div class="col3content">
+                <button>BUSINESS NEWS</button>
+
+            </div>
+
+        </div>
+
+        
+
+        <div class="col4">
+            <div class="col4overlay"></div>
+            <div class="col4content">
+                <button>OPINION</button>
+            </div>
+
+            
+        </div>
+
+        
+
+    </DIV>
+
+ </section>
+
+ <section class="sentences">
+    <div class="container">
+        <div id="col1">
+        <h3><a href="#">Debt Management Office Raise Over ₦380 Billion in May 2024 Bond Auction</a></h3>
+
+        </div>
+
+        <div id="col2">
+        <h3><a href="#">Key Resolutions at the 64th Annual General Meeting of Berger Paints Nigeria Plc</a></h3>
+
+        </div>
+
+        <div id="col3">
+        <h3><a href="#">President Bola Tinubu Officially Opens Seplat Energy’s ANOH Gas Processing Plant</a></h3>
+
+        </div>
+
+        <div id="col4">
+        <h3><a href="#">President Tinubu’s First Year: The Fraught State of Nigeria’s Economy</a></h3>
+
+
+
+        </div>
+
+    </div>
+
+ </section>
 
 
 

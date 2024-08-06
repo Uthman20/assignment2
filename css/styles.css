@@ -113,10 +113,14 @@ button{
 }
 
 .box2content h3{
-    text-decoration: underline;
-    color: white;
+    position: absolute;
+    color: #ffffff;
+    top: 70%;
     
-    
+}
+
+.box2content a{
+    color: #fff;
 }
 
 .box3{
@@ -306,6 +310,103 @@ button{
 }
 
 
+.stories h3{
+    text-align: center;
+}
+
+.stories .container{
+    display: flex;
+    justify-content: space-around;
+}
+
+#col1{
+    background-image: url(../images/ma.jpg);
+    height: 50vh;
+    width: 50%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    margin: 2px;
+}
+
+#col1overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#col2{
+    background-image: url(../images/bg.jpg);
+    height: 50vh;
+    width: 50%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    margin: 2px;
+}
+
+#col2overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#col3{
+    background-image: url(../images/tg.jpg);
+    height: 50vh;
+    width: 50%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    margin: 2px;
+}
+
+#col3overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#col4{
+    background-image: url(../images/PRESIDENT.jpeg);
+    height: 50vh;
+    width: 50%;
+    background-repeat: repeat;
+    background-position: center;
+    background-origin: fixed;
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    margin: 2px;
+}
+
+#col4overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.sentences .container{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 10px;
+}
+
+
+
 
 footer{
     background-color: black;
@@ -331,4 +432,5 @@ footer .container .box ul li a{
 footer .credit{
     text-align: center;
 }
+
 
